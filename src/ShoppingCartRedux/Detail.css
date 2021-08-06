@@ -1,0 +1,7 @@
+.container .row .detail .detail__hide {
+    display : none;
+}
+
+.container .row .detail .detail__show {
+    display : block;
+}
